@@ -1,10 +1,4 @@
-/*!
- * Blogger Responsive and Attractive Sitemap Widget by Technical Arp Team
- * Free for change but keep the original attribution.
- * URL: https://www.technicalarp.com/p/contact-us.html
- * Also If you made face any problem or want to update our script then you can pull request in Github - IamArpian
- * Usage: how to Use Arpain Sitemap Generator in your Blogger Website - 
- */
+
 !function(a,b){
 	var c=(new Date).getTime(),
 	d={
@@ -14,7 +8,7 @@ activeTab: 1, // The default active tab index (default: the first tab)
 showDates: false, // `true` to show the post date
 showSummaries: false, // `true` to show the posts summaries
 numChars: 200, // Number of summary chars
-showThumbnails: false, // `true` to show the posts thumbnails (Not recommended)
+showThumbnails: true, // `true` to show the posts thumbnails (Not recommended)
 thumbSize: 40, // Thumbnail size
 noThumb: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC", // A "no thumbnail" URL
 monthNames: [ // Array of month names you can use another Language Month If your blog is in other Language then English
@@ -39,7 +33,10 @@ showNew: 7, // `false` to hide the "New!" mark in most recent posts, or define h
 newText: ' &ndash; <em style="color:red;">New!</em>' // HTML for the "New!" text
 };
 
-	//Script is Made by Technical Arp Team If you face any Issue or want to modify this Script then Do your Best But Let us know about it... Pull Request for any Updates
+	
+	
+	
+	//START Moding
 	if("undefined"==typeof arpianSitemapData)
 		arpianSitemapData=d;
 	else 
