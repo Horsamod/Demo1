@@ -29,12 +29,6 @@
       "business": "khejurLabat",
       "date": "2025-11-11",
       "amount": 1000
-    },
-    {
-      "person": "Test",
-      "business": "morabba",
-      "date": "2025-11-28",
-      "amount": 2508
     }
   ],
   "expenses": [
@@ -42,11 +36,6 @@
       "who": "Abba",
       "date": "2025-11-13",
       "amount": 1000
-    },
-    {
-      "who": "Amda",
-      "date": "2025-11-27",
-      "amount": 508
     }
   ]
 }
