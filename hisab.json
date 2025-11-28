@@ -1,1 +1,41 @@
-[]
+{
+  "deposits": [
+    {
+      "person": "Abba",
+      "business": "khejurLabat",
+      "date": "2025-11-02",
+      "amount": 500
+    },
+    {
+      "person": "Abba",
+      "business": "khejurLabat",
+      "date": "2025-11-06",
+      "amount": 2000
+    },
+    {
+      "person": "Abba",
+      "business": "khejurLabat",
+      "date": "2025-11-08",
+      "amount": 1900
+    },
+    {
+      "person": "Abba",
+      "business": "khejurLabat",
+      "date": "2025-11-09",
+      "amount": 700
+    },
+    {
+      "person": "Abba",
+      "business": "khejurLabat",
+      "date": "2025-11-11",
+      "amount": 1000
+    }
+  ],
+  "expenses": [
+    {
+      "who": "Abba",
+      "date": "2025-11-13",
+      "amount": 1000
+    }
+  ]
+}
