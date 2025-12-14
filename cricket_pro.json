@@ -392,10 +392,26 @@
           "who": null,
           "bat": "Yy",
           "bow": "Ty"
+        },
+        {
+          "r": 1,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Yy",
+          "bow": "Ty"
+        },
+        {
+          "r": 4,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ttr",
+          "bow": "Ty"
         }
       ],
-      "striker": "Yy",
-      "nonStriker": "Ttr",
+      "striker": "Ttr",
+      "nonStriker": "Yy",
       "bowler": "Ty"
     }
   ]
