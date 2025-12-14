@@ -224,10 +224,34 @@
           "who": null,
           "bat": "565",
           "bow": "Y77"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ftt",
+          "bow": "Y77"
+        },
+        {
+          "r": 3,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ftt",
+          "bow": "Y77"
+        },
+        {
+          "r": 4,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "565",
+          "bow": "Y77"
         }
       ],
-      "striker": "Ftt",
-      "nonStriker": "565",
+      "striker": "565",
+      "nonStriker": "Ftt",
       "bowler": "Y77"
     },
     {
