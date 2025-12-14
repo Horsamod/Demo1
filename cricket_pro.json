@@ -488,10 +488,18 @@
           "who": null,
           "bat": "Ttr",
           "bow": "Yy5"
+        },
+        {
+          "r": 3,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ttr",
+          "bow": "Yy5"
         }
       ],
-      "striker": "Ttr",
-      "nonStriker": "Yy",
+      "striker": "Yy",
+      "nonStriker": "Ttr",
       "bowler": "Yy5"
     }
   ]
