@@ -32,10 +32,26 @@
           "who": null,
           "bat": "Uu",
           "bow": "7778"
+        },
+        {
+          "r": 1,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Uu",
+          "bow": "7778"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "77",
+          "bow": "7778"
         }
       ],
-      "striker": "Uu",
-      "nonStriker": "77",
+      "striker": "77",
+      "nonStriker": "Uu",
       "bowler": "7778"
     },
     {
