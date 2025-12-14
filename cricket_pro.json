@@ -273,9 +273,9 @@
     {
       "team": "Vvg",
       "balls": [],
-      "striker": null,
-      "nonStriker": null,
-      "bowler": null
+      "striker": "Ttr",
+      "nonStriker": "Yy",
+      "bowler": "Gy"
     }
   ]
 }
