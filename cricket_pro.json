@@ -320,10 +320,26 @@
           "who": null,
           "bat": "Ttr",
           "bow": "Gy"
+        },
+        {
+          "r": 1,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Yy",
+          "bow": "R55"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ttr",
+          "bow": "R55"
         }
       ],
-      "striker": "Yy",
-      "nonStriker": "Ttr",
+      "striker": "Ttr",
+      "nonStriker": "Yy",
       "bowler": "R55"
     }
   ]
