@@ -272,7 +272,16 @@
     },
     {
       "team": "Vvg",
-      "balls": [],
+      "balls": [
+        {
+          "r": 6,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ttr",
+          "bow": "Gy"
+        }
+      ],
       "striker": "Ttr",
       "nonStriker": "Yy",
       "bowler": "Gy"
