@@ -88,10 +88,18 @@
           "who": null,
           "bat": "Fhh",
           "bow": "Fgg"
+        },
+        {
+          "r": 1,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Fhh",
+          "bow": "Fgg"
         }
       ],
-      "striker": "Fhh",
-      "nonStriker": "Ftt",
+      "striker": "Ftt",
+      "nonStriker": "Fhh",
       "bowler": "Fgg"
     },
     {
