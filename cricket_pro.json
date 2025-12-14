@@ -1,0 +1,32 @@
+{
+  "id": 1765741834862,
+  "config": {
+    "overs": "5"
+  },
+  "teams": [
+    "4fgy",
+    "Vvg"
+  ],
+  "toss": {
+    "winner": "4fgy",
+    "choice": "bat"
+  },
+  "status": "LIVE",
+  "currentInnings": 0,
+  "innings": [
+    {
+      "team": "4fgy",
+      "balls": [],
+      "striker": null,
+      "nonStriker": null,
+      "bowler": null
+    },
+    {
+      "team": "Vvg",
+      "balls": [],
+      "striker": null,
+      "nonStriker": null,
+      "bowler": null
+    }
+  ]
+}
