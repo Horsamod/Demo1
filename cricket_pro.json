@@ -104,11 +104,27 @@
           "who": null,
           "bat": "Ftt",
           "bow": "Fgg"
+        },
+        {
+          "r": 1,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ftt",
+          "bow": "Fgg"
+        },
+        {
+          "r": 3,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Fhh",
+          "bow": "Fgg"
         }
       ],
-      "striker": "Ftt",
-      "nonStriker": "Fhh",
-      "bowler": "Fgg"
+      "striker": "Fhh",
+      "nonStriker": "Ftt",
+      "bowler": null
     },
     {
       "team": "Vvg",
