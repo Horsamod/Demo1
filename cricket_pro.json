@@ -128,9 +128,17 @@
           "who": "Fhh",
           "bat": "Fhh",
           "bow": "Ttt"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "565",
+          "bow": "Ttt"
         }
       ],
-      "striker": null,
+      "striker": "565",
       "nonStriker": "Ftt",
       "bowler": "Ttt"
     },
