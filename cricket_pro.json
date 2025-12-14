@@ -96,11 +96,27 @@
           "who": null,
           "bat": "77",
           "bow": "Y6"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Uu",
+          "bow": "Y6"
+        },
+        {
+          "r": 1,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Uu",
+          "bow": "Y6"
         }
       ],
       "striker": "Uu",
       "nonStriker": "77",
-      "bowler": "Y6"
+      "bowler": null
     },
     {
       "team": "Vvg",
