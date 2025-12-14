@@ -56,11 +56,19 @@
           "who": null,
           "bat": "Fhh",
           "bow": "T"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ftt",
+          "bow": "T"
         }
       ],
-      "striker": "Ftt",
-      "nonStriker": "Fhh",
-      "bowler": "T"
+      "striker": "Fhh",
+      "nonStriker": "Ftt",
+      "bowler": "Fgg"
     },
     {
       "team": "Vvg",
