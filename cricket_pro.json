@@ -32,10 +32,26 @@
           "who": null,
           "bat": "Ftt",
           "bow": "T"
+        },
+        {
+          "r": 6,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ftt",
+          "bow": "T"
+        },
+        {
+          "r": 1,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ftt",
+          "bow": "T"
         }
       ],
-      "striker": "Ftt",
-      "nonStriker": "Fhh",
+      "striker": "Fhh",
+      "nonStriker": "Ftt",
       "bowler": "T"
     },
     {
