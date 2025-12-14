@@ -472,6 +472,22 @@
           "who": null,
           "bat": "Yy",
           "bow": "Tt6"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ttr",
+          "bow": "Tt6"
+        },
+        {
+          "r": 6,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "Ttr",
+          "bow": "Tt6"
         }
       ],
       "striker": "Ttr",
