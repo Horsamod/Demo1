@@ -160,11 +160,19 @@
           "who": null,
           "bat": "565",
           "bow": "Ttt"
+        },
+        {
+          "r": 2,
+          "ex": null,
+          "wkt": null,
+          "who": null,
+          "bat": "565",
+          "bow": "Ttt"
         }
       ],
-      "striker": "565",
-      "nonStriker": "Ftt",
-      "bowler": "Ttt"
+      "striker": "Ftt",
+      "nonStriker": "565",
+      "bowler": null
     },
     {
       "team": "Vvg",
