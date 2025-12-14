@@ -16,7 +16,16 @@
   "innings": [
     {
       "team": "4fgy",
-      "balls": [],
+      "balls": [
+        {
+          "r": 0,
+          "ex": "lb",
+          "wkt": null,
+          "who": null,
+          "bat": "Uu",
+          "bow": "7778"
+        }
+      ],
       "striker": "Uu",
       "nonStriker": "77",
       "bowler": "7778"
