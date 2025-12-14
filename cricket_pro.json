@@ -12,7 +12,7 @@
     "choice": "bat"
   },
   "status": "LIVE",
-  "currentInnings": 0,
+  "currentInnings": 1,
   "innings": [
     {
       "team": "4fgy",
@@ -264,14 +264,6 @@
           "who": null,
           "bat": "565",
           "bow": "Y77"
-        },
-        {
-          "r": 6,
-          "ex": null,
-          "wkt": null,
-          "who": null,
-          "bat": "565",
-          "bow": "Tyy"
         }
       ],
       "striker": "Ftt",
