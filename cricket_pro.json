@@ -112,9 +112,17 @@
           "who": null,
           "bat": "Uu",
           "bow": "Y6"
+        },
+        {
+          "r": 0,
+          "ex": null,
+          "wkt": "RunOut",
+          "who": "Uu",
+          "bat": "Uu",
+          "bow": "77"
         }
       ],
-      "striker": "Uu",
+      "striker": null,
       "nonStriker": "77",
       "bowler": "77"
     },
