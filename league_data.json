@@ -259,11 +259,19 @@
             "who": null,
             "bat": "Hiyg",
             "bow": "Uuu"
+          },
+          {
+            "r": 2,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Hiyg",
+            "bow": "Uuu"
           }
         ],
-        "striker": "Hiyg",
-        "nonStriker": "Huu",
-        "bowler": "Uuu"
+        "striker": "Huu",
+        "nonStriker": "Hiyg",
+        "bowler": null
       }
     ],
     "currInn": 0
