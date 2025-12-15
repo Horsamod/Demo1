@@ -59,11 +59,27 @@
             "who": null,
             "bat": "Huu",
             "bow": "Ohy"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Huu",
+            "bow": "Ohy"
+          },
+          {
+            "r": 3,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Hiyg",
+            "bow": "Ohy"
           }
         ],
-        "striker": "Huu",
-        "nonStriker": "Hiyg",
-        "bowler": "Ohy"
+        "striker": "Hiyg",
+        "nonStriker": "Huu",
+        "bowler": "Yjj"
       }
     ],
     "currInn": 0
