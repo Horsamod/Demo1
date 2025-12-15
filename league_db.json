@@ -128,9 +128,18 @@
             "note": null,
             "bat": "Hjj",
             "bow": "Jji"
+          },
+          {
+            "r": 0,
+            "ex": null,
+            "wkt": "Caught",
+            "who": "Hjj",
+            "note": "by Juu",
+            "bat": "Hjj",
+            "bow": "Jji"
           }
         ],
-        "striker": "Hjj",
+        "striker": null,
         "nonStriker": "Jjo",
         "bowler": "Jji"
       }
