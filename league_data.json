@@ -11,7 +11,16 @@
         "team": "Te1",
         "runs": 0,
         "wkts": 0,
-        "balls": [],
+        "balls": [
+          {
+            "r": 2,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Rjh",
+            "bow": "Ohy"
+          }
+        ],
         "striker": "Rjh",
         "nonStriker": "Hiyg",
         "bowler": "Ohy"
