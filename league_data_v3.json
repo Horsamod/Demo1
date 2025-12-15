@@ -40,11 +40,25 @@
             "wkt": null,
             "bat": "Jji",
             "bow": "Jjo"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "bat": "Jjii",
+            "bow": "Jjo"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "bat": "Jji",
+            "bow": "Jjo"
           }
         ],
-        "striker": "Jjii",
-        "nonStriker": "Jji",
-        "bowler": "Jjo"
+        "striker": "Jji",
+        "nonStriker": "Jjii",
+        "bowler": null
       }
     ]
   }
