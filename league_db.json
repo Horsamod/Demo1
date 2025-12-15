@@ -12,9 +12,9 @@
       {
         "team": "Test",
         "balls": [],
-        "striker": null,
-        "nonStriker": null,
-        "bowler": null
+        "striker": "Hjj",
+        "nonStriker": "Jjo",
+        "bowler": "Jii"
       }
     ]
   }
