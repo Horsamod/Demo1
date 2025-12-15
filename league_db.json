@@ -7,7 +7,7 @@
     ],
     "overs": 4,
     "status": "LIVE",
-    "currInn": 0,
+    "currInn": 1,
     "innings": [
       {
         "team": "Test",
@@ -259,6 +259,13 @@
         "striker": "Uui",
         "nonStriker": "Jjo",
         "bowler": "Uuii"
+      },
+      {
+        "team": "Tryu",
+        "balls": [],
+        "striker": null,
+        "nonStriker": null,
+        "bowler": null
       }
     ]
   }
