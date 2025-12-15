@@ -263,9 +263,9 @@
       {
         "team": "Tryu",
         "balls": [],
-        "striker": null,
-        "nonStriker": null,
-        "bowler": null
+        "striker": "Jki",
+        "nonStriker": "Hhu",
+        "bowler": "Iui"
       }
     ]
   }
