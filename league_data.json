@@ -219,10 +219,18 @@
             "who": null,
             "bat": "Hiyg",
             "bow": "877"
+          },
+          {
+            "r": 3,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Hiyg",
+            "bow": "Uuu"
           }
         ],
-        "striker": "Hiyg",
-        "nonStriker": "Huu",
+        "striker": "Huu",
+        "nonStriker": "Hiyg",
         "bowler": "Uuu"
       }
     ],
