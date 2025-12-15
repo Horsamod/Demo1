@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1765769115393,
+    "teams": [
+      "Giii",
+      "Hjik"
+    ],
+    "venue": "Oi iuoi uii",
+    "overs": "5",
+    "status": "LIVE",
+    "currInn": 0,
+    "innings": [
+      {
+        "team": "Giii",
+        "balls": [],
+        "striker": null,
+        "nonStriker": null,
+        "bowler": null
+      }
+    ]
+  }
+]
