@@ -262,7 +262,17 @@
       },
       {
         "team": "Tryu",
-        "balls": [],
+        "balls": [
+          {
+            "r": 6,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Jki",
+            "bow": "Iui"
+          }
+        ],
         "striker": "Jki",
         "nonStriker": "Hhu",
         "bowler": "Iui"
