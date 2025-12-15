@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1765768314013,
+    "teams": [
+      "Test",
+      "Tryu"
+    ],
+    "overs": 4,
+    "status": "LIVE",
+    "currInn": 0,
+    "innings": [
+      {
+        "team": "Test",
+        "balls": [],
+        "striker": null,
+        "nonStriker": null,
+        "bowler": null
+      }
+    ]
+  }
+]
