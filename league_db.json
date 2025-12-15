@@ -307,11 +307,20 @@
             "note": null,
             "bat": "Hhu",
             "bow": "Iui"
+          },
+          {
+            "r": 2,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Hhu",
+            "bow": "Iui"
           }
         ],
-        "striker": "Hhu",
-        "nonStriker": "Jki",
-        "bowler": "Iui"
+        "striker": "Jki",
+        "nonStriker": "Hhu",
+        "bowler": "Uu8"
       }
     ]
   }
