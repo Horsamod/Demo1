@@ -13,9 +13,9 @@
       {
         "team": "Giii",
         "balls": [],
-        "striker": null,
-        "nonStriker": null,
-        "bowler": null
+        "striker": "Jjii",
+        "nonStriker": "Jji",
+        "bowler": "Jjo"
       }
     ]
   }
