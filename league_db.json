@@ -137,11 +137,20 @@
             "note": "by Juu",
             "bat": "Hjj",
             "bow": "Jji"
+          },
+          {
+            "r": 4,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Uui",
+            "bow": "Jji"
           }
         ],
-        "striker": null,
-        "nonStriker": "Jjo",
-        "bowler": "Jji"
+        "striker": "Jjo",
+        "nonStriker": "Uui",
+        "bowler": null
       }
     ]
   }
