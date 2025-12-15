@@ -211,11 +211,19 @@
             "who": null,
             "bat": "Hiyg",
             "bow": "877"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Hiyg",
+            "bow": "877"
           }
         ],
         "striker": "Hiyg",
         "nonStriker": "Huu",
-        "bowler": "877"
+        "bowler": null
       }
     ],
     "currInn": 0
