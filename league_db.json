@@ -83,10 +83,19 @@
             "note": null,
             "bat": "Jjo",
             "bow": "Jji"
+          },
+          {
+            "r": 3,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Jjo",
+            "bow": "Jji"
           }
         ],
-        "striker": "Jjo",
-        "nonStriker": "Hjj",
+        "striker": "Hjj",
+        "nonStriker": "Jjo",
         "bowler": "Jji"
       }
     ]
