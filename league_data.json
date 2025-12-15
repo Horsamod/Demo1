@@ -12,9 +12,9 @@
         "runs": 0,
         "wkts": 0,
         "balls": [],
-        "striker": null,
-        "nonStriker": null,
-        "bowler": null
+        "striker": "Rjh",
+        "nonStriker": "Hiyg",
+        "bowler": "Ohy"
       }
     ],
     "currInn": 0
