@@ -271,10 +271,37 @@
             "note": null,
             "bat": "Jki",
             "bow": "Iui"
+          },
+          {
+            "r": 2,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Jki",
+            "bow": "Iui"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Jki",
+            "bow": "Iui"
+          },
+          {
+            "r": 2,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Hhu",
+            "bow": "Iui"
           }
         ],
-        "striker": "Jki",
-        "nonStriker": "Hhu",
+        "striker": "Hhu",
+        "nonStriker": "Jki",
         "bowler": "Iui"
       }
     ]
