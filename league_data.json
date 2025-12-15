@@ -235,10 +235,18 @@
             "who": null,
             "bat": "Huu",
             "bow": "Uuu"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Huu",
+            "bow": "Uuu"
           }
         ],
-        "striker": "Huu",
-        "nonStriker": "Hiyg",
+        "striker": "Hiyg",
+        "nonStriker": "Huu",
         "bowler": "Uuu"
       }
     ],
