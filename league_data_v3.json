@@ -12,7 +12,15 @@
     "innings": [
       {
         "team": "Giii",
-        "balls": [],
+        "balls": [
+          {
+            "r": 6,
+            "ex": null,
+            "wkt": null,
+            "bat": "Jjii",
+            "bow": "Jjo"
+          }
+        ],
         "striker": "Jjii",
         "nonStriker": "Jji",
         "bowler": "Jjo"
