@@ -110,11 +110,39 @@
             "wkt": null,
             "bat": "Jji",
             "bow": "Guii"
+          },
+          {
+            "r": 4,
+            "ex": null,
+            "wkt": null,
+            "bat": "Jji",
+            "bow": "Guii"
+          },
+          {
+            "r": 6,
+            "ex": null,
+            "wkt": null,
+            "bat": "Jji",
+            "bow": "Guii"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "bat": "Jji",
+            "bow": "Guii"
+          },
+          {
+            "r": 2,
+            "ex": null,
+            "wkt": null,
+            "bat": "Jjii",
+            "bow": "Guii"
           }
         ],
         "striker": "Jji",
         "nonStriker": "Jjii",
-        "bowler": "Guii"
+        "bowler": null
       }
     ]
   }
