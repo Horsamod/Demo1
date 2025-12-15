@@ -155,11 +155,27 @@
             "who": null,
             "bat": "Hiyg",
             "bow": "Uyy"
+          },
+          {
+            "r": 4,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Hiyg",
+            "bow": "Uyy"
+          },
+          {
+            "r": 2,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "bat": "Hiyg",
+            "bow": "Uyy"
           }
         ],
-        "striker": "Hiyg",
-        "nonStriker": "Huu",
-        "bowler": "Uyy"
+        "striker": "Huu",
+        "nonStriker": "Hiyg",
+        "bowler": "877"
       }
     ],
     "currInn": 0
