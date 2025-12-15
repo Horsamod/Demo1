@@ -361,11 +361,20 @@
             "note": null,
             "bat": "Hhu",
             "bow": "Uu8"
+          },
+          {
+            "r": 1,
+            "ex": null,
+            "wkt": null,
+            "who": null,
+            "note": null,
+            "bat": "Hhu",
+            "bow": "Uu8"
           }
         ],
         "striker": "Hhu",
         "nonStriker": "Jki",
-        "bowler": "Uu8"
+        "bowler": "Uuu"
       }
     ]
   }
